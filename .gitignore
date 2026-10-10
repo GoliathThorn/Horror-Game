@@ -1,0 +1,34 @@
+# Unreal generated folders - rebuilt automatically, never commit
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# IDE / solution files - regenerated from the .uproject
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcworkspace
+*.xcodeproj
+
+# Compiled / packaged output
+*.pdb
+*.dll
+*.exe
+*.app
+*.ipa
+*.apk
+*.pak
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
